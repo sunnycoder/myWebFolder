@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+/*个人中心*/
+.self{
+    position: absolute;
+    width: 30px;
+    height: 80px;
+    right: 0px;
+    top: 0px;
+    padding-top: 6px;
+}
+.self img{
+	border-radius: 100px;
+}
+.footer{
+	text-align: center;
+}
